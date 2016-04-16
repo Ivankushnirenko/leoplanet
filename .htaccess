@@ -1,0 +1,12 @@
+#Кодировка сервера
+
+AddDefaultCharset utf-8
+
+
+#Открытие файлов без указания росшырения
+
+Options +MultiViews
+
+#Переопредиление индекса
+
+DirectoryIndex index.php
